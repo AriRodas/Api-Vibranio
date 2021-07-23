@@ -8,7 +8,7 @@ class PodaLogic(PybaLogic):
     # get
     def getPoda(self, name):
         database = self.createDatabaseObj()
-        sql = f"SELECT * FROM vibraniodb.poda where producto = '{name}';"
+        sql = f"SELECT * FROM heroku_441e2c0ae462d0a.poda where producto = '{name}';"
         result = database.executeQuery(sql)
         if len(result) != 0:
             return result[0]
