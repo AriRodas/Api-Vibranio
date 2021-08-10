@@ -6,6 +6,8 @@ TABLAS
 
 tabla 1: construcción --> id, producto, categoria(herramienta, equipo o material), descripcion, precio, tienda, link
 
+tabla 2: electricidad --> id, producto, categoria(herramienta, equipo o material), descripcion, precio, tienda, link
+
 tabla 3: poda --> id, producto, categoria(herramienta, equipo), descripcion, precio, tienda, link
 
 
