@@ -18,3 +18,5 @@ Links para el consumo de la api para cada tabla
 Poda: https://apiprogra.herokuapp.com/poda/herramienta
 
 Construcción: https://apiprogra.herokuapp.com/construccion/material
+
+Electriccidad: https://apiprogra.herokuapp.com/electricidad/equipo
