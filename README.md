@@ -13,9 +13,9 @@ tabla 3: poda --> id, producto, categoria(herramienta, equipo), descripcion, pre
 
 ENDPOINTS
 
-Links para el consumo de la api para cada tabla
+Links para el consumo de la api para cada tabla -->El grupo solicitó que la busqueda se hiciera por categoria, se adjunta un ejemplo para cada tabla
 
-Poda: https://apiprogra.herokuapp.com/poda/herramienta
+Poda: https://apiprogra.herokuapp.com/poda/herramienta 
 
 Construcción: https://apiprogra.herokuapp.com/construccion/material
 
